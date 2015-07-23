@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, "8.0"
   s.name         = "RWPickFlavor"
-  s.version      = "0.0.1"
+  s.version      = "0.1.0"
   s.summary      = "RWPickFlavor lets a user select an ice cream flavor."
 
   s.homepage     = "https://github.com/OanhDo/RWPickFlavor"
